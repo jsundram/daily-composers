@@ -1,18 +1,13 @@
 import * as React from "react"
+// preloading goodness
+import Layout from '../components/layout'
+
 
 // styles
 const pageStyles = {
   color: "#232129",
   padding: 96,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 64,
-  maxWidth: 320,
-}
-const headingAccentStyles = {
-  color: "#663399",
 }
 const paragraphStyles = {
   marginBottom: 48,
@@ -42,12 +37,6 @@ const linkStyle = {
   verticalAlign: "5%",
 }
 
-const docLinkStyle = {
-  ...linkStyle,
-  listStyleType: "none",
-  marginBottom: 24,
-}
-
 const descriptionStyle = {
   color: "#232129",
   fontSize: 14,
@@ -56,11 +45,6 @@ const descriptionStyle = {
   lineHeight: 1.25,
 }
 
-const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
-  color: "#8954A8",
-}
 
 const badgeStyle = {
   color: "#fff",
@@ -80,6 +64,13 @@ const badgeStyle = {
 
 // data
 const links = [
+  {
+      text: "Documentation",
+      url: "https://www.gatsbyjs.com/docs/",
+      description:
+        "Documentation Main Page.",
+      color: "#8954A8",
+  },
   {
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
@@ -129,15 +120,12 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
-      <h1 style={headingStyles}>
-        Congratulations
-        <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
-        <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
-        </span>
-      </h1>
+
+      <Layout pageTitle="Home Page">
+          <p>Welcome to my Gatsby site!</p>
+          <p>I'm making this by following the Gatsby Tutorial.</p>
+      </Layout>
+
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time.{" "}
@@ -146,14 +134,6 @@ const IndexPage = () => {
         </span>
       </p>
       <ul style={listStyles}>
-        <li style={docLinkStyle}>
-          <a
-            style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
-          >
-            {docLink.text}
-          </a>
-        </li>
         {links.map(link => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>

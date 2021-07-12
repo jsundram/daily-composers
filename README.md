@@ -4,9 +4,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  daily-composers
 </h1>
 
+learn more and listen more
+
+* following tutorial at https://www.gatsbyjs.com/docs/tutorial/
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
