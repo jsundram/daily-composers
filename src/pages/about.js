@@ -5,8 +5,15 @@ import Layout from '../components/layout'
 // Step 2: Define your component
 const AboutPage = () => {
   return (
-      <Layout pageTitle="About Me">
-        <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
+      <Layout pageTitle="About the site">
+        <p>Daily Composers was inspired by <a href="http://composerbirthdays.com/">composerbirthdays.com</a>, and was built to help celebrate great music</p>
+        <p>Daily Composers was built with <a href="https://www.gatsbyjs.com/">Gatsby</a>.</p>
+
+        <p>Icons made by the following creators on <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>: </p>
+        <ul>
+            <li> <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a></li>
+            <li> <a href="https://www.freepik.com" title="Freepik">Freepik</a></li>
+        </ul>
       </Layout>
   )
 }

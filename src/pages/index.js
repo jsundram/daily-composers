@@ -1,6 +1,6 @@
 import * as React from "react"
-// preloading goodness
 import Layout from '../components/layout'
+import {StaticImage } from 'gatsby-plugin-image'
 
 
 // styles
@@ -124,6 +124,10 @@ const IndexPage = () => {
       <Layout pageTitle="Home Page">
           <p>Welcome to my Gatsby site!</p>
           <p>I'm making this by following the Gatsby Tutorial.</p>
+          <StaticImage
+            alt="Gatsby Icon"
+            src="../images/icon.png"
+          />
       </Layout>
 
       <p style={paragraphStyles}>

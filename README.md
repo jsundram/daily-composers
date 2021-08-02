@@ -9,49 +9,34 @@
 
 learn more and listen more
 
-* following tutorial at https://www.gatsbyjs.com/docs/tutorial/
-## 🚀 Quick start
+## TODO (MVP)
+* check in and deploy
+* Remove "Home" and replace with "Today".
+* mobile friendliness
+* move list to table, for sorting
+* add composers by death day
+* ~~Add birth/year~~
+* ~~get playlist links back onto daily pages~~
+* ~~deal with missing images~~
+* ~~style results~~
+* ~~style header~~
+* Occasional crazy timeouts (15s)
+    * something funky with e.g. http://localhost:8000/7-31
+    * `gatsby clean` fixed it
 
-1.  **Create a Gatsby site.**
+## TODO (feature wishes)
+* get data from google sheets instead of cooked csv/json
+* calendar-type page?
+* ical downloads
+* add page for charts etc?
+* piece premieres
+* ~~next / prev button for each page~~
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+---
+### CSS resources 
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://css-tricks.com/snippets/css/complete-guide-grid/
+* https://cssbattle.dev/play/71
+* https://gridcritters.com/
+* https://geddski.teachable.com/p/flexbox-zombies
+* https://frontendmasters.com/courses/css-grids-flexbox/
