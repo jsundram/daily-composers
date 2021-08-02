@@ -36,10 +36,11 @@ let dateslug = ( d ) => ("/" + (d.getMonth() + 1) + "-" +  d.getDate());
 
 export default function Day({ pageContext }) {
   console.log(pageContext);
-  const {date_str, date, playlist, group} = pageContext;
+  const {date_str, playlist, group} = pageContext;
   const playlist_types = ["sampler", "long", "draft", "other"];
 
   const one_day_ms = 24 * 60 * 60 * 1000;
+  let date = Date.parse(date_str);
   let yesterday = new Date(date - one_day_ms);
   let tomorrow = new Date(date + one_day_ms);
 

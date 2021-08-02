@@ -82,7 +82,6 @@ exports.createPages = async ({ graphql, actions }) => {
             component: template,
             context: {
                 date_str: group.fieldValue,
-                date: d.getTime(),
                 playlist: playlists[ds],
                 group: group,
             },
