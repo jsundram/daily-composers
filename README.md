@@ -10,11 +10,10 @@
 learn more and listen more
 
 ## TODO (MVP)
-* check in and deploy
-* Remove "Home" and replace with "Today".
+* Day template doesn't correctly set page title (browser tab has a | in it)
 * mobile friendliness
+* get spotify links to open in app?
 * move list to table, for sorting
-* add composers by death day
 * ~~Add birth/year~~
 * ~~get playlist links back onto daily pages~~
 * ~~deal with missing images~~
@@ -23,13 +22,18 @@ learn more and listen more
 * Occasional crazy timeouts (15s)
     * something funky with e.g. http://localhost:8000/7-31
     * `gatsby clean` fixed it
+* ~~check in and deploy~~
+* ~~Remove "Home" and replace with "Today".~~
 
 ## TODO (feature wishes)
+* add composers by death day
 * get data from google sheets instead of cooked csv/json
 * calendar-type page?
 * ical downloads
 * add page for charts etc?
 * piece premieres
+* female composer page?
+* use "top tier" to sort best composers to top of day?
 * ~~next / prev button for each page~~
 
 ---
