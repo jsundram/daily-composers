@@ -1,0 +1,2930 @@
+[
+    {
+        "date": "1/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/2",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/4h6Un8t28MDjBmK6FljwBK?si=ca5457ff87f54753",
+        "other": ""
+    },
+    {
+        "date": "1/3",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/0eGKadHAldg2XaSV2UGAbN?si=e5b7a791640041c0",
+        "other": ""
+    },
+    {
+        "date": "1/4",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/5bIkzw9691Hkj9w6wFlkMW?si=4ed349f9fe8a44d1",
+        "other": ""
+    },
+    {
+        "date": "1/5",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/0swEnhikKX9aL3syNNoWsI?si=2tkkEzBRRbSVBVEfL0Lqdw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/7",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/9",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/3IfNECqOGkYxcLHR4NCqDp?si=iL-s0iQ5S0ycPEX0AfZupA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/10",
+        "status": "yr < Martinon",
+        "long": "https://open.spotify.com/playlist/6PkXOny63d1LOEmgsfbiLx?si=cUd2HouQTEaHwSozBeoxrw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/11",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/39NSF9PciT3u8bqbvnksYL?si=18bf1d6ffad246f9",
+        "other": ""
+    },
+    {
+        "date": "1/12",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/14",
+        "status": "mostly complete draft (many unavailable)",
+        "long": "https://open.spotify.com/playlist/2jZvO20qaNIVI7n63k9qZV?si=UPidUR-YSZONTdiNTVm5pg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/15",
+        "status": "inc draft",
+        "long": "https://open.spotify.com/playlist/0M4PJgxhnocpKkxDpAeshD?si=k1-A_GnZQmCW31NSHIwieg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/16",
+        "status": "yr < Bryars",
+        "long": "https://open.spotify.com/playlist/1AkNEWPp1lvHWn245l9P4H?si=EvH0_t6xSgW3-6bORVFhGQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/17",
+        "status": "yr < Kienzl",
+        "long": "https://open.spotify.com/playlist/1u7mhO8buwG25MHH8MvuY8?si=_KsUfKqoQ52y7Io9oJKpuA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/18",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/21",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/4j46KG7XyCd6OObbMbXGaC?si=8d4d3cc4deb449a9",
+        "other": ""
+    },
+    {
+        "date": "1/22",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/23",
+        "status": "draft, -Bates (check full list)",
+        "long": "https://open.spotify.com/playlist/7dOR7Rpe17p94uUZ4p61hp?si=5q9qb4l7SqyU5S-FLQX7gQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/24",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/6OJyzEyXuOrBMnIpZ2Tfcm?si=IGKISVP_SbCupDtLIndGSg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/25",
+        "status": "some Frid",
+        "long": "https://open.spotify.com/playlist/4w7heFcOqXR2iBa9T2tDNr?si=hVOA8k5LQWKu6Sm8IKyJaA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/27",
+        "status": "best of day only, v incomplete",
+        "long": "https://open.spotify.com/playlist/5Rkw90rsbDRqB9VaRUYJ24?si=Ttq4xww7Rwy2cbXNC0FPQg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/28",
+        "status": "Werner,  Danielpour, Dell'Acqua",
+        "long": "https://open.spotify.com/playlist/7LLOdCGzcOfXY16peCwwy6?si=PLIDDQQ1SV6mb8KClJ2tUg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/29",
+        "status": "Selva only",
+        "long": "https://open.spotify.com/playlist/2S3uhmsRO77UU4zPRjqHCX?si=70R6JKaPTGOqly-UID12Xg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/30",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/5X2dKTqrYUSPwkfO0CNimr?si=m6rZcpAyQsWjczUPOLt9Dw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "1/31",
+        "status": "draft, could add even more Schubert",
+        "long": "https://open.spotify.com/playlist/4Victvd9PyHwdokzCrD8tY?si=V-4sfIRrSWKO1M7r7lYtKw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/1",
+        "status": "BP, Conus, Veress",
+        "long": "https://open.spotify.com/playlist/5JDdW8IdBS4vMPlYxphTck?si=j6hnho4jSOK-pjMQQYhULQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/2",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/0TcuRKLihlrqfYMZ7JzPqQ?si=02lTxgFKQAafnlJCj9ZH7g",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/3",
+        "status": "< 1900",
+        "long": "https://open.spotify.com/playlist/5fxOWJr2atEVIUcFmpgBcX?si=QcvX8hWnSUa8lgX38r8lVg",
+        "sampler": "",
+        "draft": "",
+        "other": "Palestrina: Missa Papae Marcelli"
+    },
+    {
+        "date": "2/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/5",
+        "status": "yr < Mortelmans",
+        "long": "https://open.spotify.com/playlist/3loMIa21iwgeLAIVzSKA0C?si=ynApJl03TEqivqS14B1qWw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/7",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/10",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/12",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/13",
+        "status": ",+Farrell",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/14",
+        "status": "yr <= Hayton",
+        "long": "https://open.spotify.com/playlist/38GSv4CgK5fnwJjePpmM8X?si=GrGqPVeUTiO3kLXw7Z2DfA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/15",
+        "status": "yr <= Arlen, +Adams",
+        "long": "https://open.spotify.com/playlist/6z5WpZLqV4q6qkUJTtjSvD?si=XHO93Oc1QaiFrtFwNN-qNQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/16",
+        "status": "yr <= Wilder, + Corigliano",
+        "long": "https://open.spotify.com/playlist/62U6vpBeFOhBfIRVZR9Dy6?si=4efsBhVKT1ehakWRgfU5dQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/18",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/19",
+        "status": "Andree, Wertheim, Williams, Moor",
+        "long": "https://open.spotify.com/playlist/76mWillK1cKMzgcAa1zr9I?si=T97lVfgoSO2QF0oDiHZTOw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/20",
+        "status": "yr <= Hallin",
+        "long": "https://open.spotify.com/playlist/4RKWIbEutG8dfUXnNTOoWm?si=8BFn7ThVS8eFi6BWqXchnQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/21",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/22",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/24",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/25",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/27",
+        "status": "long draft (~2h)",
+        "long": "https://open.spotify.com/playlist/0pBXu9hakkyU9nhMLndyFM?si=1p-eVOseQMSw4rGIw6c4lw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/28",
+        "status": "yr <= Carpenter, +Shifrin",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "2/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/1",
+        "status": "yr <= Chopin (inc.), + LHL",
+        "long": "https://open.spotify.com/playlist/1VwxuNj46FIVUwcDc5DE0i?si=KZS_VQawQFWBTH0GedY6Vg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/3",
+        "status": "long sampler",
+        "long": "https://open.spotify.com/playlist/1rBG1Mzcgt6eK2kuwimAhA?si=jfmK5Wy8Smq5bKQJZntPCQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/5",
+        "status": "incomplete V-L only",
+        "long": "https://open.spotify.com/playlist/1yHoGsdr1kaYmcYCv4QpBT?si=YolVCHpQTrGKfxTx44lDbQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/6",
+        "status": "yr <= Juon",
+        "long": "https://open.spotify.com/playlist/3UVd7tyeBMFQluNjXhycl6?si=c6Yf39n_Ro2ka_C6p32FMg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/7",
+        "status": "incomplete Ravel only (incl. Neikrug playing Ravel)",
+        "long": "https://open.spotify.com/playlist/234G1RpW9YiLhMMHUXAkE1?si=i8KjUkv1R86FOv93HeGNrA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/10",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/12",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/0YaWyv93WqyDkzoUog3hWn?si=bmVCRB8bTzqTEyEcJZ0RZA",
+        "sampler": "",
+        "draft": "",
+        "other": "Dr. Bull's Good Night"
+    },
+    {
+        "date": "3/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/14",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/15",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/18",
+        "status": "draft long sampler",
+        "long": "https://open.spotify.com/playlist/19WG29i8hzqyE8D2B3zzth?si=BJQ-y0MFRfOHezTyTINuKw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/20",
+        "status": "draft long sampler complete, but add some jazz!",
+        "long": "https://open.spotify.com/playlist/34x8ougO6rKKnVWG0XXFcG?si=E5gTJ1yjTwGQlL400mlIzg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/21",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/22",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/24",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/25",
+        "status": "s, abfn < NBreton",
+        "long": "https://open.spotify.com/playlist/55PSgf7maKc16LmdffCFUO?si=nv6JdztOQXifiw_vWm6VTg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/26",
+        "status": "sampler WITHOUT Boulez",
+        "long": "https://open.spotify.com/playlist/6F8z4CUwiuEOSWMaur6Dog?si=wLq8aJ8KQHGHv1gQ7RJCiw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/27",
+        "status": "draft long sampler",
+        "long": "https://open.spotify.com/playlist/6yc7wU6jayz1yMB44EdxGv?si=Vm1TKYNqTZao1ey1P9OORA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/28",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/29",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/1ZCF4cdBd9QCx752Uz1nQP?si=bcZuEkSyT16-5Ve_f2uJ8Q",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/30",
+        "status": "abfn << Keller",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "3/31",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/1",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/5bPxxS2afdu1nq8x4zpaJN?si=26f94a4f1edf4ae4",
+        "other": ""
+    },
+    {
+        "date": "4/2",
+        "status": "",
+        "long": "https://open.spotify.com/playlist/2YA7PDh7GhHM6iuLYxbscy?si=35da41da2659430f",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/3",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/0W8LkPsLZyo69LO6HWizuL?si=f784c2e0e2154eda",
+        "other": ""
+    },
+    {
+        "date": "4/4",
+        "status": "",
+        "long": "https://open.spotify.com/playlist/0RdyQf3zcte9Kx7rc0FaH5?si=7b00c6f5f1a34717",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/5",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/0nYmbAk7yMK2x9EmPQg3hC?si=2fa869e40d504e29",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/6",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/13Pdv5DUHsjV476pJz9C7r?si=1960e92e999d48c8",
+        "other": ""
+    },
+    {
+        "date": "4/7",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/7c4fX3N2lqXI5g8kcj1vsT?si=31a418d3f3454335",
+        "other": ""
+    },
+    {
+        "date": "4/8",
+        "status": "Tartini only; make second playlist for others",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/6vNTxxEi0tkVl9R5AgKguT?si=4d8f96be284f4cbd",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/9",
+        "status": "",
+        "long": "https://open.spotify.com/playlist/2mZ4dMopSyEWVvDI4R2rdC?si=d5de42b36404462d",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/10",
+        "status": "",
+        "long": "https://open.spotify.com/playlist/40uRwWWMdin6b50bh2nZW1?si=a78087581c7d42f2",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/12",
+        "status": "",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/3rPkTlof2rKptE9G6JGgOJ?si=a582ef7bdc534376",
+        "draft": "https://open.spotify.com/playlist/5LoqFzEwV08rqfJzVXEnVK?si=ae3051c368c9452c",
+        "other": ""
+    },
+    {
+        "date": "4/13",
+        "status": "",
+        "long": "https://open.spotify.com/playlist/22S9pB6uQd5ysDWGMZ8w9W?si=09580ba63f064bb8",
+        "sampler": "https://open.spotify.com/playlist/2MahRHgauT3mxWaD5hiqY5?si=56ab54555ae74278",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/14",
+        "status": "",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/6tb6RjHXjh4K55VClrLcGs?si=2fc08cc65779474d",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/15",
+        "status": "",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/1KfontthyK7oox5ckOwJE4?si=f9918426f8fa4c4c",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/16",
+        "status": "s",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/3k7Q01QXURWQFe1sFt7OYB?si=fcccb51d61434bfc",
+        "draft": "https://open.spotify.com/playlist/7jl1Qd3kTNUvjekZt45rL0?si=ab75321e72434f0a",
+        "other": ""
+    },
+    {
+        "date": "4/17",
+        "status": "s",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/0Z4KygbgJIgUF0MImEueHT?si=79c8912d1b4a4254",
+        "draft": "https://open.spotify.com/playlist/0Z4KygbgJIgUF0MImEueHT?si=3bf7cc33991640ae",
+        "other": ""
+    },
+    {
+        "date": "4/18",
+        "status": "shared with 4/19",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/24kPYBFYpduA1CM7M03elk?si=3e5a5338a18c4b77",
+        "draft": "https://open.spotify.com/playlist/6RahIasFtsc31Pi19Z8ZfL?si=b02947b7332043a8",
+        "other": ""
+    },
+    {
+        "date": "4/19",
+        "status": "short combi 4/18, long may be incomplete?, see 4/18 draft",
+        "long": "https://open.spotify.com/playlist/1vJimGHs9xv6XXjv8ENYaB?si=6b7c04796b6e45eb",
+        "sampler": "https://open.spotify.com/playlist/24kPYBFYpduA1CM7M03elk?si=3e5a5338a18c4b77",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/20",
+        "status": "",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/3bExEjUtj7KQWnp5jrNZJ8?si=3fd93a899a6b490c",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/21",
+        "status": "long",
+        "long": "https://open.spotify.com/playlist/5i7yHiNBQVmWuPHkKOJw6H?si=68220c86041f41d0",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/22",
+        "status": "short shared, long started",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/1Tww05fmPm7lEJ07zAGfgB?si=730b54089b8c41f9",
+        "draft": "https://open.spotify.com/playlist/1KK6BiGUaIyJxYbJf8iK2F?si=3b729e705c1d4f4c",
+        "other": ""
+    },
+    {
+        "date": "4/23",
+        "status": "long sampler (complete) plus extra Prokofiev (unfinished)",
+        "long": "https://open.spotify.com/playlist/3JSqnLwMHCb5oCi4pv11gX?si=Dn0UDebWTfqh8MRkTahBoQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/24",
+        "status": "perfs, then sampler",
+        "long": "https://open.spotify.com/playlist/0MWGSehmd1lk3LjQZtjZzc?si=AdysBdahSlKMkAqzm97v5g",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/25",
+        "status": "mostly Ella and others listed right",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/37Mf28U4jHwqyDh2HW7JJC?si=a9c9522bd6e14c87",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/26",
+        "status": "long sampler complete, edit down!",
+        "long": "https://open.spotify.com/playlist/1VbKB3zjVGsFhQqi6Nq5re?si=f49fac17a2af4cc3",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/27",
+        "status": "selected composers",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/7jVhGaslmvRHNsUI5965rY?si=5894ea90bb314547",
+        "other": ""
+    },
+    {
+        "date": "4/28",
+        "status": "long sampler complete?",
+        "long": "https://open.spotify.com/playlist/3pcxaRZyxWv82Juq1ZyUuB?si=0yJbuqIMTTmc5wbFbN85kw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/29",
+        "status": "Ellington only",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/1OGyRtcuqUKaXqDZdxH47j?si=ipZhveWIQV6ao60BFvPlSQ",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "4/30",
+        "status": "long sampler only",
+        "long": "https://open.spotify.com/playlist/635W4mNy8WXMGY1WoHtn7A?si=tbjdMk_XQheCQQSvpHuxbQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/1",
+        "status": "long sampler complete",
+        "long": "https://open.spotify.com/playlist/71BwzWTRjZtbbCcpdbTaMC?si=3af0b1e436e54f51",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/2",
+        "status": "draft chron up to Thiriet",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/7nmkgqd5pfSrQ3L0VMu6eL?si=affed8437dac4036",
+        "other": ""
+    },
+    {
+        "date": "5/3",
+        "status": "long sampler complete",
+        "long": "https://open.spotify.com/playlist/2B2ERGQuJJhgQtEU1rxWnl?si=8752989d088d4051",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/4",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/2XGtCNctZYcohEBMdVEbRu?si=7132665a2f774e5d",
+        "other": ""
+    },
+    {
+        "date": "5/5",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/1UjXJYzYSQ9Ct1Ikyv8eup?si=8083babb29334332",
+        "other": ""
+    },
+    {
+        "date": "5/6",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/1UjXJYzYSQ9Ct1Ikyv8eup?si=11ed58bd304b4f24",
+        "other": ""
+    },
+    {
+        "date": "5/7",
+        "status": "draft",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/7DXFjjzEjMCISsRVVIHtEA?si=SPYQq1OOQiWlymZd3psBkw",
+        "other": ""
+    },
+    {
+        "date": "5/8",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/6VwGjEPka7oHJMy5WaX5JR?si=YLpfPlfdSlCEJ6NRIheG3w",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/9",
+        "status": "Paisiello and Rontgen",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/5MyHyH2nwsJkRUc6Nb1epJ?si=7580d420efab4c41",
+        "other": ""
+    },
+    {
+        "date": "5/10",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/78X922DtPhpisge9kSZZa0?si=9AMUDPuZRtyb2SRAI7xwnQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/11",
+        "status": "draft?",
+        "long": "https://open.spotify.com/playlist/5hfyl3eyGtjUm5LtdbeEJF?si=Uy2acYt1TXeKl_ahO6BmqQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/12",
+        "status": "Faure, Massenet, and everyone before 1800",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/0wUFyuhafwXIsA8D2YISjb?si=66b412d73b3d4e3a",
+        "other": ""
+    },
+    {
+        "date": "5/13",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/6TVv7OtDrKF5EKL2tYsG7D?si=l7vIG0aORC6AatPYPPXrTQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/14",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/15",
+        "status": "Monteverdi sampler; need another playlist for others",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/1ugyUPTvBOdbqIBJRVIhsZ?si=5a63d78286854afe",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/16",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/5vQygf2N9alvymc7SisPxm?si=8ZRKUXcKRUKLqCCScrBtpg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/17",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/18",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/374GG31RCaq918HWx06P3U?si=nEfZ0Uy5QxSiUqr067TtOg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/19",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/7rLlS9HN7rsn8cuEcZ90bI?si=5RDgSOdKRpmfQDTvuTFo7A",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/21",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/22",
+        "status": "s - Sauret and Cras",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/6vxomKqR3K2gxbOj3B4f5M?si=592f533406f24331",
+        "other": ""
+    },
+    {
+        "date": "5/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/24",
+        "status": "chron <=1936",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/4ehBWKxvNRQHlV6uJEXlMe?si=8d99166a25a24f3c",
+        "other": ""
+    },
+    {
+        "date": "5/25",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/6rKZWLC7a5kEbfM8Ct2bcP?si=07b167d38fab4923",
+        "other": ""
+    },
+    {
+        "date": "5/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/27",
+        "status": "chron <1900 + Musgrave (check more)",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/6QWvZKT26pcCZeD1ELDqeV?si=d78ac3b26107482a",
+        "other": ""
+    },
+    {
+        "date": "5/28",
+        "status": "started -- add Ligeti, etc.",
+        "long": "https://open.spotify.com/playlist/2OsBpQKSFlFGsbCjyTIry3?si=_ARwAIPmTpC-oGU4MjLWyA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "5/29",
+        "status": "Korngold, some Albeniz",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/6nCIfJgjwhqZ6IWVxOdaeT?si=e5d7986da9e74551",
+        "other": ""
+    },
+    {
+        "date": "5/30",
+        "status": "started -- add Ligeti, etc.",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/0LIOA38rl800GZWonGtobf?si=445237cdd29d41c0",
+        "other": ""
+    },
+    {
+        "date": "5/31",
+        "status": "s - Marais and Farrenc",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/7ihYvHNvIducXGu05a2YT0?si=6fe1a5fc3f494a50",
+        "other": ""
+    },
+    {
+        "date": "6/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/2",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/3",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/5",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/7",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/8",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/10",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/11",
+        "status": "chron <=1900",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/4Iio2uWoB6h5YxXLyp3Hwu?si=918f3352f2aa42f5",
+        "other": ""
+    },
+    {
+        "date": "6/12",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/5axCNVeXz6NZt2p2Xt9J9m?si=qJnDhZ_HQsiJpNCUeDebMA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/14",
+        "status": "started",
+        "long": "https://open.spotify.com/playlist/7lpvn7kMun8OsC0qJGdfbb?si=UVRHarXMQB2wLHeABO5Gfw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/15",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/29aZOulLyVGRTwkwLdkdv4?si=0586715443c24498",
+        "other": ""
+    },
+    {
+        "date": "6/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/18",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/1m63S6wztwE6cRkjGKzFE1?si=GMI9pZFGRa2u3Tc5yT0tIA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/19",
+        "status": "long sampler complete (abfn)",
+        "long": "https://open.spotify.com/playlist/2ebXTTRJLODxoytKa6KZxW?si=a5e6c9ce75314767",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/20",
+        "status": "long sampler complete (chron)",
+        "long": "https://open.spotify.com/playlist/3PEimiPfLGq2e8nkqBWZ7g?si=eff74eb766ce49a9",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/21",
+        "status": "long inc, chron <= Haas (1899) ",
+        "long": "https://open.spotify.com/playlist/6fsNtyoUQ6wIP8baWfHiSh?si=324b045045634663",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/22",
+        "status": "long sampler complete",
+        "long": "https://open.spotify.com/playlist/7togIuSYCFdU4iFTLoY4Tb?si=a745df49edec47ef",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/23",
+        "status": "Kraggerud only",
+        "long": "https://open.spotify.com/playlist/0rQQID4uJE0DKAY95QKate?si=lmujc4NNQGiAh6uQD5Lv3Q",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/24",
+        "status": "long sampler complete",
+        "long": "https://open.spotify.com/playlist/5Slc4PKZ9VZQW3xk1nq0Ek?si=f9610ce1836e412b",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/25",
+        "status": "medium sampler done, abfn",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/6wv9tHNfNRGKu2PmS54SXb?si=0d3bc457e7024636",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/26",
+        "status": "medium sampler done, chron",
+        "long": "",
+        "sampler": "https://open.spotify.com/playlist/4nHFGBNPrP4ojN0QUsqYy4?si=9ec32dcd76fe4305",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/27",
+        "status": "long sampler complete - selected, then chron",
+        "long": "https://open.spotify.com/playlist/4MXxZqSxpw1eVpBn38C7Q6?si=T4kFBoP6Thqn-sMZgPwSsg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/28",
+        "status": "long sampler complete",
+        "long": "https://open.spotify.com/playlist/3140MBwn6JEc6VOiUm0bAS?si=2df00f6f85ea4111",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "6/30",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/3",
+        "status": "long sampler complete, chron",
+        "long": "https://open.spotify.com/playlist/6Gqnsq3QSoarGIvVJUnxMA?si=24b7ee7bf52b4b29",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/4",
+        "status": "long sampler complete, chron",
+        "long": "https://open.spotify.com/playlist/6UT60g9Hg7BXtgkO3EqkW0?si=56e01378ae19414b",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/5",
+        "status": "long sampler complete, chron",
+        "long": "https://open.spotify.com/playlist/545rxvkCwSjDGY4Cky3RJO?si=b8f9db1d5b3b48ad",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/6",
+        "status": "long sampler incomplete, chron < 1900",
+        "long": "https://open.spotify.com/playlist/6OxBQRq7o8n2pXWnyqPa4u?si=500608b9a571409e",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/7",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/8",
+        "status": "long sampler complete, chron + extra Kinkel",
+        "long": "https://open.spotify.com/playlist/62UCgHscUmBvQryop7900Y?si=2ac57f0dda7843a0",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/9",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/7zMgC0eIZaU2oxcf4ct9OK?si=ovGFEqtDS5qlNb56QRUNUg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/10",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/7bCfcPvyWAoI2JYyJjZhmE?si=scyBGIwETOiDh3ioNZN6Lw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/11",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/0aDtSXz91KbSYywcprqBp0?si=3c1aeb3823744fb7",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/12",
+        "status": "s, c<= Butterworth",
+        "long": "https://open.spotify.com/playlist/5jXNOt0PH57LSJRy2Oyu6W?si=3534cf6268da41f2",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/14",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/2VI08Sv1C73FzBQsAyI2uQ?si=6qXOHMBbRdybzO3PnZIF6g",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/15",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/16",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/1uoKwAT1YepoSYa47ZkFQf?si=P_3uow5hRxqY3GA6j8WlQQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/17",
+        "status": "s, chron <= kilar",
+        "long": "https://open.spotify.com/playlist/68bNT98snYEu3HByi6BIys?si=ae10fd59c0bb41ad",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/18",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/20",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/21",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/22",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/24",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/25",
+        "status": "",
+        "long": "s",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/27",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/3hZmkJWcWJJEeftmRp61UX?si=tCpGRbJ2QjuMVI97JIM6-w",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/28",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/2xb1MaUnpithuFwixgz7WE?si=AlJs_MAlQW2xQ3HM1fqRaA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/30",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "7/31",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/1",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/3",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/5",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/7",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/9",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/10",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/12",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/14",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/15",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/16",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/0ISkpNqbzWoRD56PIuPMYp?si=SxxPQ0vzQBKHtn5OaJ5MhQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/18",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/21",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/22",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/5fwGRLDMOKRoNke5745kHn?si=VXY0wowCRoOmKNKEjZpHQw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/24",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/25",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/27",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/28",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/30",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "8/31",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/2",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/3",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/5",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/7",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/8",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/10",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/12",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/14",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/15",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/17",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/18",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/21",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/22",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/24",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/25",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/27",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/3MyOO4KkHlEZa8dCX2e2U6?si=iJ3ApGHPSZmCLgyMxR_OmA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/28",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "9/30",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/1",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/3",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/5",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/7",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/10",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/12",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/13",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/14",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/15",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/17",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/18",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/21",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/22",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/24",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/25",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/26",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/27",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/28",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/29",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/30",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "10/31",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/3",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/4",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/5",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/6",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/7",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/8",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/9",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/10",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/12",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/13",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/14",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/15",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/18",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/19",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/20",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/0IyB9BfXpYPPvThydOjfhK?si=V-8WWVJ_Tha0xtW5PZm08Q",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/21",
+        "status": "?",
+        "long": "https://open.spotify.com/playlist/6nasGZouWVsFmvy6RT75dX?si=jcjccOSxR4aCMLnUQBB0nQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/22",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/5vwMNBuZsMtqfo9FShPKhc?si=2iWqUvLyTRGrTu4M7ufhLQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/23",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/71erkwavY9StgTcSpxGJjj?si=ovy1SC0tS4eKD6Xt-ecfYQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/24",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/68kH7d82AeIPZTuUrFWuxA?si=Aso7vvBUSYmswXow9KO2UQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/25",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/26",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/382cCikoMq58AIRW6GhxvD?si=lkk0UgtHQpilVxhBI1xqJw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/27",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/382cCikoMq58AIRW6GhxvD?si=lkk0UgtHQpilVxhBI1xqJw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/28",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/29",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/1Z1xcaI2lDqA363ucw4Mo2?si=Q1eY6hciTkOSvNxo7MPuIw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "11/30",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/1",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/2",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/3",
+        "status": "Neruda, Webern, Soler, Suesse, Stevens",
+        "long": "https://open.spotify.com/playlist/6njNQg5fH3NYmNVkIkjI00?si=x9E6EnlvRqiqw8JAV2THmw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/4",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/5",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "https://open.spotify.com/playlist/1KpvyLLI4vz5j4mAqkC35g?si=04117e0d8fba4f8e",
+        "other": ""
+    },
+    {
+        "date": "12/6",
+        "status": "Van Dieren, Klein, Bosmans",
+        "long": "https://open.spotify.com/playlist/3fRZRpSisZFDRimPwkRAQa?si=cQYWz13BSn6ZiDu967q4oA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/7",
+        "status": "Toch",
+        "long": "https://open.spotify.com/playlist/0vT4QbEDaoiNgOEAtnaekX?si=xtwOyFMXT-GsaUgL67EYuw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/8",
+        "status": "Zoltan Szekely (Haydn 74/1/i, Bartok 5/iii), Manuel Ponce, Claude Balbastre, Martinu, Sibelius",
+        "long": "https://open.spotify.com/playlist/62fMmlJ7RFuY8CyEMJnwnJ?si=DIjMzLuPQHuofo-lzzen8Q",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/9",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/6F922T2cdFHugGBHZGplYf?si=DRFAXYNkQ-ytNfelTtdc3Q",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/10",
+        "status": "Franck",
+        "long": "https://open.spotify.com/playlist/1wAxMMpNgEWv3zlhX9fp9c?si=C8WJ_sq4RtWSaUZ8a51sRw",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/11",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/12",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/6kzEHuHeinl1BVx6Qaqd3P?si=YIjw0SB5T5mm-yQYu4X8xg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/13",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/2bKyeUR4GskIV5AOZmP1hp?si=EqcV6t73QX2nnubyRJ9piQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/14",
+        "status": "draft",
+        "long": "https://open.spotify.com/playlist/46pCvpEwLjdi5mJBnTq9oG?si=Iv3ns1WPQpm1aWyJRh1z0w",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/15",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/01sYJeZwq6W6NnPdQFFFrq?si=bM_louJyRauGercP6Pm_4A",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/16",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/17",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/18",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/19",
+        "status": "Clerambault, Dancla, Braunfels",
+        "long": "https://open.spotify.com/playlist/6A2fDqOUUgWvqyOqCB1mib?si=VSMvN6q8SEq9UBQ8z4RvzQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/20",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/21",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/22",
+        "status": "s",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/23",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/24",
+        "status": "",
+        "long": "",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/25",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/1HKqRrC4ye9NMB4GvUKbjm?si=ym70TG3pSXu2ct1qrx3ICg",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/26",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/4dk9pcxcY1rPiEWHlkqnhL?si=INwIQWRdQSadjSnaB2lz8w",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/27",
+        "status": "s incl Lauber",
+        "long": "https://open.spotify.com/playlist/72dfMzvo0LQhgOK1uOsC4O?si=YsLuU9GKTdW39WEjN_FN-w",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/28",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/2OnIHfGSlnYjRobkFGwm6U?si=G8K3Q7JQSqeovJwfIzmXyQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/29",
+        "status": "s",
+        "long": "https://open.spotify.com/playlist/4HtRMEPaEjkGUG4AyORs4g?si=0YnWB5qJRTiecg7TWqZWMA",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/30",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/2aMFxglS45hKoM584LztSl?si=ODAeaEhAQtqB_f1zglCUeQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    },
+    {
+        "date": "12/31",
+        "status": "many",
+        "long": "https://open.spotify.com/playlist/6khnNp4kNwJasEDoUz8vVK?si=CMJhVDr3QfK48MMlxPUhAQ",
+        "sampler": "",
+        "draft": "",
+        "other": ""
+    }
+]
