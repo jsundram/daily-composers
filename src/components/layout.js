@@ -4,7 +4,6 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 import {
   container,
-  heading,
   navLinks,
   navLinkItem,
   navLinkText,

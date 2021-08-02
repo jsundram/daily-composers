@@ -13,6 +13,8 @@ learn more and listen more
 * mobile friendliness
 * get spotify links to open in app?
 * move list to table, for sorting
+    * https://www.smashingmagazine.com/2020/03/sortable-tables-react/
+    * could sort on popularity etc in addition to chronological? Not sure this is needed.
 * ~~Add birth/year~~
 * ~~get playlist links back onto daily pages~~
 * ~~deal with missing images~~
