@@ -42,12 +42,11 @@ const Layout = ({ pageTitle, children }) => {
       <p className={siteTitle}>{data.site.siteMetadata.title}</p>
       <nav>
         <ul className={navLinks}>
-          <li className={navLinkItem}><Link to="/" className={navLinkText}>Home</Link></li>
           <li className={navLinkItem}><Link to={today} className={navLinkText}>Today</Link></li>
           <li className={navLinkItem}><Link to={random} className={navLinkText}>Random</Link></li>
+          <li className={navLinkItem}><Link to="/" className={navLinkText}>About</Link></li>
         </ul>
       </nav>
-      <h1 className={heading}>{pageTitle}</h1>
       {children}
     </main>
   )

@@ -10,7 +10,6 @@
 learn more and listen more
 
 ## TODO (MVP)
-* Day template doesn't correctly set page title (browser tab has a | in it)
 * mobile friendliness
 * get spotify links to open in app?
 * move list to table, for sorting
@@ -24,6 +23,7 @@ learn more and listen more
     * `gatsby clean` fixed it
 * ~~check in and deploy~~
 * ~~Remove "Home" and replace with "Today".~~
+* ~~Day template doesn't correctly set page title (browser tab has a | in it)~~
 
 ## TODO (feature wishes)
 * add composers by death day

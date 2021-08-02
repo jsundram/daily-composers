@@ -2,10 +2,15 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 
+import {
+  heading,
+} from '../components/layout.module.css'
+
 // Step 2: Define your component
 const AboutPage = () => {
   return (
-      <Layout pageTitle="About the site">
+      <Layout pageTitle="About">
+        <h1 className={heading}>About</h1>
         <p>Daily Composers was inspired by <a href="http://composerbirthdays.com/">composerbirthdays.com</a>, and was built to help celebrate great music</p>
         <p>Daily Composers was built with <a href="https://www.gatsbyjs.com/">Gatsby</a>.</p>
 

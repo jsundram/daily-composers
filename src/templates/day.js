@@ -48,7 +48,7 @@ export default function Day({ pageContext }) {
   // let has_playlist = playlist_types.every(t => (playlist[t] === ""));
   // let popularity = (n) => (n.wp_views * n.sp_popularity * n.sp_followers);
   return (
-        <Layout pageTitle={null}>
+        <Layout pageTitle={date_str}>
 
             <div style={container}>
             <Link style={button} to={dateslug(yesterday)} title="yesterday">
