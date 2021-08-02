@@ -21,6 +21,21 @@ const Layout = ({ pageTitle, children }) => {
           }
   }`);
 
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
+  //(long, numeric, short)
+  const date_to_slug = (d) => "/" + [
+      new Intl.DateTimeFormat('en', {month: 'numeric'}).format(d),
+      new Intl.DateTimeFormat('en', {day: 'numeric'}).format(d),
+  ].join("-");
+
+  function randomDate() {
+    const start = new Date(2020, 0, 1).getTime(); // Pick a leap year.
+    return new Date(start + Math.random() * 366 * 24 * 60 * 60 * 1000);
+  }
+
+  let today = date_to_slug(new Date());
+  let random = date_to_slug(randomDate());
+
   return (
     <main className={container}>
       <title>{pageTitle} | {data.site.siteMetadata.title}</title>
@@ -28,9 +43,8 @@ const Layout = ({ pageTitle, children }) => {
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}><Link to="/" className={navLinkText}>Home</Link></li>
-          <li className={navLinkItem}><Link to="/today" className={navLinkText}>Today</Link></li>
-          <li className={navLinkItem}><Link to="/random" className={navLinkText}>Random</Link></li>
-          <li className={navLinkItem}><Link to="/about" className={navLinkText}>About</Link></li>
+          <li className={navLinkItem}><Link to={today} className={navLinkText}>Today</Link></li>
+          <li className={navLinkItem}><Link to={random} className={navLinkText}>Random</Link></li>
         </ul>
       </nav>
       <h1 className={heading}>{pageTitle}</h1>

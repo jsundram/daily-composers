@@ -10,12 +10,6 @@ import Composer from '../components/composer'
 // import next_button from "../images/next-button.svg"
 // import prev_button from "../images/previous-button.svg"
 
-const pageStyles = {
-  color: "#232129",
-  padding: 96,
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-
 const container = {
     "display": "flex",
     "height": "120px",
@@ -53,8 +47,6 @@ export default function Day({ pageContext }) {
   // let has_playlist = playlist_types.every(t => (playlist[t] === ""));
   // let popularity = (n) => (n.wp_views * n.sp_popularity * n.sp_followers);
   return (
-    <main style={pageStyles}>
-
         <Layout pageTitle={null}>
 
             <div style={container}>
@@ -107,8 +99,6 @@ export default function Day({ pageContext }) {
           }
           </ul>
       </Layout>
-
-    </main>
   )
 }
 
