@@ -1,0 +1,43 @@
+@media screen and (min-width: 800px) {
+    .container {
+        display: flex;
+        height: 120px;
+        width: 600px;
+        align-items: center;
+    }
+
+    .heading {
+        color: cornflowerblue;
+        margin: auto;
+    }
+    .button {
+        margin: "auto";
+    }
+
+    .link = {
+        color: "cornflowerblue";
+    }
+
+}
+
+
+@media screen and (max-width: 799px) {
+    .container {
+        display: flex;
+        height: 120px;
+        max-width: 400px;
+        align-items: center;
+    }
+
+    .heading {
+        color: cornflowerblue;
+        margin: auto;
+    }
+    .button {
+        margin: "auto";
+    }
+
+    .link = {
+        color: "cornflowerblue";
+    }
+}
