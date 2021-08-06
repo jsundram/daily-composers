@@ -1,4 +1,6 @@
 import * as React from 'react'
+import {format} from 'd3-format'
+
 import {
     container,
     photo,
@@ -34,6 +36,9 @@ const Composer = ({node}) => {
         }
         return s;
     }
+    let friendly = (s) => {
+        return s > 999 ? format(".2s")(s) : s;
+    };
 
     return (
           <li key={node.name} className={container}>
@@ -42,7 +47,7 @@ const Composer = ({node}) => {
             <div className={main}>
                 <p className={name}><a className={linkWp} href={node.wp_url}>{node.name}</a></p>
                 <p className={lifespan}>{node.birthyear} &ndash; {node.deathdate || "?"}</p>
-                <p className={popularity}>Views: {node.wp_views}, Popularity: {node.sp_popularity}, Follows: {node.sp_followers}</p>
+                <p className={popularity}>Views: {friendly(node.wp_views)}, Popularity: {node.sp_popularity}, Follows: {friendly(node.sp_followers)}</p>
             </div>
 
 
