@@ -1,67 +1,135 @@
 /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
-.container {
-    display: flex;
-    flex-direction: row-reverse;    /* default */
-    flex-flow: row nowrap;          /* default */ 
-    justify-content: flex-start;    /* default */ 
-    align-items: stretch;           /* default? */
-    height: 120px;
-    width: 800px;
-}
+@media screen and (min-width: 800px) {
+    .container {
+        display: flex;
+        flex-direction: row-reverse;    /* default */
+        flex-flow: row nowrap;          /* default */ 
+        justify-content: flex-start;    /* default */ 
+        align-items: stretch;           /* default? */
+        height: 120px;
+        width: 800px;
+    }
+    .photo {
+        order: 1;
+        width: 100px;
+        margin: auto;
+        height: auto;
+        padding-right: 10px;
+    }
 
-.photo {
-    order: 1;
-    width: 100px;
-    margin: auto;
-    height: auto;
-    padding-right: 10px;
-}
+    .main {
+        order: 2;
+        margin: auto;
+        width: 200px;
+        padding-right: 10px;
+        color: gray;
+    }
+    .link-spotify {
+        order: 3;
+        margin: auto;
+        padding-right: 10px;
+    }
+    .link-wikidata {
+        order: 4;
+        margin: auto;
+        padding-right: 10px;
+    }
+    .tags {
+        order: 5;
+        width: 200px;
+        color: gray;
+        font-size: 14px;
+        align-self: center;
+    }
 
-.main {
-    order: 2;
-    margin: auto;
-    width: 200px;
-    padding-right: 10px;
-    color: gray;
-}
-.link-spotify {
-    order: 3;
-    margin: auto;
-    padding-right: 10px;
-}
-.link-wikidata {
-    order: 4;
-    margin: auto;
-    padding-right: 10px;
-}
-.tags {
-    order: 5;
-    width: 200px;
-    color: gray;
-}
+    .name {
+        color: gray;
+        padding: none;
+        margin: 0px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+    .link-wp {
+        color: cornflowerblue;
+        padding: none;
+        margin: 0px;
+    }
 
-.name {
-    color: gray;
-    padding: none;
-    margin: 0px;
-    font-size: 18px;
-    font-weight: normal;
+    .lifespan {
+        padding: none;
+        margin: 0px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+    .popularity {
+        padding: none;
+        margin: 0px;
+        font-size: 10px;
+        font-weight: normal;
+    }
 }
-.link-wp {
-    color: cornflowerblue;
-    padding: none;
-    margin: 0px;
-}
+/* iPhone Optimized: Is there a less repetitive way to do this? */
+@media screen and (max-width: 799px) {
+    .container {
+        display: flex;
+        height: 60px;
+        width: 400px;
+    }
+    .photo {
+        order: 1;
+        width: 50px;
+        margin: auto;
+        height: auto;
+        padding-right: 10px;
+    }
 
-.lifespan {
-    padding: none;
-    margin: 0px;
-    font-size: 18px;
-    font-weight: normal;
-}
-.popularity {
-    padding: none;
-    margin: 0px;
-    font-size: 10px;
-    font-weight: normal;
+    .main {
+        order: 2;
+        margin: auto;
+        width: 200px;
+        padding-right: 10px;
+        color: gray;
+    }
+    .name {
+        color: gray;
+        padding: none;
+        margin: 0px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .lifespan {
+        padding: none;
+        margin: 0px;
+        font-size: 10px;
+        font-weight: normal;
+    }
+    .popularity {
+        padding: none;
+        margin: 0px;
+        font-size: 5px;
+        font-weight: normal;
+    }
+    .link-spotify {
+        order: 3;
+        margin: auto;
+        padding-right: 10px;
+    }
+    .link-wikidata {
+        order: 4;
+        margin: auto;
+        padding-right: 10px;
+    }
+    .tags {
+        order: 5;
+        width: 200px;
+        color: gray;
+        font-size: 10px;
+    }
+
+    .link-wp {
+        color: cornflowerblue;
+        padding: none;
+        margin: 0px;
+    }
+
 }
