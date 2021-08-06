@@ -10,7 +10,6 @@
 learn more and listen more
 
 ## TODO (MVP)
-* mobile friendliness
 * photo aspect ratios cause some problems sometimes
 * get spotify links to open in app?
     * replacing "https" with "spotify" prompts to open the app immediately instead of loading the website (which then prompts for app)
@@ -28,11 +27,16 @@ learn more and listen more
 * ~~check in and deploy~~
 * ~~Remove "Home" and replace with "Today".~~
 * ~~Day template doesn't correctly set page title (browser tab has a | in it)~~
+* ~~mobile friendliness v1~~
+* ~~add number of composers featured for day~~
 
 ## TODO (feature wishes)
 * make a separate repo for all the data processing and make that easy to read / update
 * add composers by death day
 * use "top tier" to sort best composers to top of day?
+* search for a particular composer
+* calendar view
+    * https://www.cssscript.com/simple-yearly-calendar-in-pure-javascript-calendarize/
 * get data from google sheets instead of cooked csv/json
     * service account set up
     * need to understand how [this example](https://github.com/gatsbyjs/gatsby/tree/master/examples/functions-google-sheets) works better.
