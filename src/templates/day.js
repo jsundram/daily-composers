@@ -75,7 +75,7 @@ export default function Day({ pageContext }) {
             }
           </ul>
           <h3>{group.totalCount} Featured composers for {date_str}:</h3>
-          <ul>
+          <ul style={{padding: 0, margin: 0}}>
           {
             group.nodes
               .sort((a, b) => (a.birthyear > b.birthyear) ? 1 : -1)

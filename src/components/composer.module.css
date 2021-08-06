@@ -29,10 +29,16 @@
         margin: auto;
         padding-right: 10px;
     }
+    .icon-spotify {
+        width: 50px;
+    }
     .link-wikidata {
         order: 4;
         margin: auto;
         padding-right: 10px;
+    }
+    .icon-wikidata {
+        width: 50px;
     }
     .tags {
         order: 5;
@@ -85,13 +91,18 @@
 
     .main {
         order: 2;
-        margin: auto;
         width: 200px;
+        padding-top: 5px;
         padding-right: 10px;
         color: gray;
+        align-self: flex-start; /*auto | flex-start | flex-end | center | baseline | stretch;*/
+    }
+    .link-wp {
+        color: cornflowerblue;
+        padding: none;
+        margin: 0px;
     }
     .name {
-        color: gray;
         padding: none;
         margin: 0px;
         font-size: 14px;
@@ -106,7 +117,8 @@
     .popularity {
         padding: none;
         margin: 0px;
-        font-size: 5px;
+        color: black;
+        font-size: 6px;
         font-weight: normal;
     }
     .link-spotify {
@@ -114,22 +126,23 @@
         margin: auto;
         padding-right: 10px;
     }
+    .icon-spotify {
+        width: 25px;
+    }
     .link-wikidata {
         order: 4;
         margin: auto;
         padding-right: 10px;
+    }
+    .icon-wikidata {
+        width: 25px;
     }
     .tags {
         order: 5;
         width: 200px;
         color: gray;
         font-size: 10px;
-    }
-
-    .link-wp {
-        color: cornflowerblue;
-        padding: none;
-        margin: 0px;
+        align-self: center;
     }
 
 }

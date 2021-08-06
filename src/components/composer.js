@@ -6,7 +6,9 @@ import {
     photo,
     main,
     linkSpotify,
+    iconSpotify,
     linkWikidata,
+    iconWikidata,
     tags,
     name,
     linkWp,
@@ -52,11 +54,11 @@ const Composer = ({node}) => {
 
 
             <a className={linkSpotify} href={node.sp_url}>
-                <img src={spotify_logo} height="50px" alt="spotify" type="image/jpg"/>
+                <img className={iconSpotify} src={spotify_logo} alt="spotify" type="image/jpg"/>
             </a>
 
             <a className={linkWikidata} href={node.wd_url}>
-                <img src={wikidata_logo} height="50px" alt="wikidata" type="image/jpg"/>
+                <img className={iconWikidata} src={wikidata_logo} alt="wikidata" type="image/jpg"/>
             </a>
 
             <p className={tags}>{get_genre_tags(node)}</p>

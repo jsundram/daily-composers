@@ -31,12 +31,14 @@ learn more and listen more
 * ~~add number of composers featured for day~~
 
 ## TODO (feature wishes)
-* make a separate repo for all the data processing and make that easy to read / update
+* calendar view
+    * https://www.cssscript.com/simple-yearly-calendar-in-pure-javascript-calendarize/
+* Make [a manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/) for iOS "add to home screen"
 * add composers by death day
 * use "top tier" to sort best composers to top of day?
 * search for a particular composer
-* calendar view
-    * https://www.cssscript.com/simple-yearly-calendar-in-pure-javascript-calendarize/
+* make a separate repo for all the data processing and make that easy to read / update
+    * can pull tags / genres from wikidata in future.
 * get data from google sheets instead of cooked csv/json
     * service account set up
     * need to understand how [this example](https://github.com/gatsbyjs/gatsby/tree/master/examples/functions-google-sheets) works better.
@@ -47,12 +49,10 @@ learn more and listen more
             * [hooks](https://reactjs.org/docs/hooks-intro.html) 
             * [state](https://www.educative.io/edpresso/how-to-force-a-react-component-to-re-render) 
     * [gatsby plugins for this](https://www.gatsbyjs.com/plugins/gatsby-source-google-spreadsheet/?=google%20sheet) are aimed at buildtime steps only!
-* calendar-type page?
 * ical downloads
 * add page for charts etc?
 * piece premieres
 * female composer page?
-* Make [a manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/) for iOS "add to home screen"
 * ~~next / prev button for each page~~
 
 ---

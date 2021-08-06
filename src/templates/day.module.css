@@ -24,7 +24,7 @@
 @media screen and (max-width: 799px) {
     .container {
         display: flex;
-        height: 120px;
+        height: 40px;
         max-width: 400px;
         align-items: center;
     }
@@ -34,7 +34,7 @@
         margin: auto;
     }
     .button {
-        margin: "auto";
+        margin: auto;
     }
 
     .link = {
