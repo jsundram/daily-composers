@@ -31,14 +31,14 @@ learn more and listen more
 * ~~add number of composers featured for day~~
 
 ## TODO (feature wishes)
-* calendar view
-    * https://www.cssscript.com/simple-yearly-calendar-in-pure-javascript-calendarize/
 * Make [a manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/) for iOS "add to home screen"
 * add composers by death day
 * use "top tier" to sort best composers to top of day?
 * search for a particular composer
 * make a separate repo for all the data processing and make that easy to read / update
     * can pull tags / genres from wikidata in future.
+    * [chevalier de st georges](https://en.wikipedia.org/wiki/Chevalier_de_Saint-Georges) doesn't have wikidata linked so death date is missing.
+        * fixing manually in data in this repository, need to figure out why https://www.wikidata.org/wiki/Q726953 wasn't linked originally.
 * get data from google sheets instead of cooked csv/json
     * service account set up
     * need to understand how [this example](https://github.com/gatsbyjs/gatsby/tree/master/examples/functions-google-sheets) works better.
@@ -54,6 +54,7 @@ learn more and listen more
 * piece premieres
 * female composer page?
 * ~~next / prev button for each page~~
+* ~~calendar view~~
 
 ---
 ### CSS resources 
