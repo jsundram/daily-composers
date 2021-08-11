@@ -53,13 +53,27 @@ const Composer = ({node}) => {
             </div>
 
 
-            <a className={linkSpotify} href={node.sp_url}>
-                <img className={iconSpotify} src={spotify_logo} alt="spotify" type="image/jpg"/>
-            </a>
+            {node.sp_url ? (
+                <a className={linkSpotify} href={node.sp_url}>
+                    <img className={iconSpotify} src={spotify_logo} alt="spotify" type="image/jpg"/>
+                </a>
+            ) : (
+                <div className={linkSpotify}>
+                    <div className={iconSpotify} />
+                </div>
+            )
+            }
 
-            <a className={linkWikidata} href={node.wd_url}>
-                <img className={iconWikidata} src={wikidata_logo} alt="wikidata" type="image/jpg"/>
-            </a>
+            {node.wd_url ? (
+                <a className={linkWikidata} href={node.wd_url}>
+                    <img className={iconWikidata} src={wikidata_logo} alt="wikidata" type="image/jpg"/>
+                </a>
+            ) : (
+                <div className={linkWikidata}>
+                    <div className={iconWikidata} />
+                </div>
+            )
+            }
 
             <p className={tags}>{get_genre_tags(node)}</p>
           </li>
