@@ -89,16 +89,15 @@
     }
     .photo {
         order: 1;
-        width: 100px; /* making this 50px instead of 100px fixes wide images and breaks narrow ones? */
-        height: 50px;
+        width: 50px;
         margin: auto;
-        display: flex;
-        justify-content: center;
+        height: auto;
+        padding-right: 10px;
     }
     .img {
-        object-fit: contain; /* fill | contain | cover | none scale-down */
-        flex: 1;
-        overflow: hidden;
+        width: 50px;
+        margin: auto;
+        height: auto;
     }
     .main {
         order: 2;
