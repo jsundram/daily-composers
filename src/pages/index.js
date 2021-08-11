@@ -1,5 +1,6 @@
 // Step 1: Import your component
 import * as React from 'react'
+import { Link } from 'gatsby'
 import Layout from '../components/layout'
 
 import {
@@ -20,7 +21,7 @@ const AboutPage = () => {
             <li> <a href="https://www.freepik.com" title="Freepik">Freepik</a></li>
         </ul>
 
-        <p>Check out Today's composers of the day, or click Random to explore</p>
+        <p>Check out Today's composers of the day, browse the <Link to="/calendar" className={heading}>Calendar</Link> or click Random to explore!</p>
       </Layout>
   )
 }
