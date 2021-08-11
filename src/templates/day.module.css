@@ -14,8 +14,8 @@
         margin: "auto";
     }
 
-    .link = {
-        color: "cornflowerblue";
+    .link {
+        color: cornflowerblue;
     }
 
 }
@@ -37,7 +37,7 @@
         margin: auto;
     }
 
-    .link = {
-        color: "cornflowerblue";
+    .link {
+        color: cornflowerblue;
     }
 }

@@ -24,6 +24,7 @@ export default function Day({ pageContext }) {
   console.log(pageContext);
   const {date_str, playlist, group} = pageContext;
   const playlist_types = ["sampler", "long", "draft", "other"];
+  const playlist_count = playlist_types.map(type => (playlist[type] ? 1 : 0)).reduce((a, b) => (a + b), 0);
 
   const one_day_ms = 24 * 60 * 60 * 1000;
   let date = Date.parse(date_str);
@@ -60,7 +61,7 @@ export default function Day({ pageContext }) {
 
 
           <h3>
-            Playlist status: <span style={{fontWeight: 'normal'}}>{playlist.status || "None (yet!)"}</span>
+            Playlist status: <span style={{fontWeight: 'normal'}}>{playlist_count === 0  ? "None (yet!)" : "In Progress"}</span>
           </h3>
           <ul>
             {

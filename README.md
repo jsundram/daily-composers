@@ -29,6 +29,9 @@ learn more and listen more
 * ~~Day template doesn't correctly set page title (browser tab has a | in it)~~
 * ~~mobile friendliness v1~~
 * ~~add number of composers featured for day~~
+* ~~fix playlist link color~~ 
+* ~~change cryptic playlist abbreviations to "in progress"~~
+
 
 ## TODO (feature wishes)
 * Make [a manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/) for iOS "add to home screen"
