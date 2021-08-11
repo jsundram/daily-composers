@@ -12,11 +12,17 @@
     .photo {
         order: 1;
         width: 100px;
+        height: 100px;
         margin: auto;
-        height: auto;
-        padding-right: 10px;
+        display: flex;
+        justify-content: center;
     }
-
+    .img {
+        object-fit: contain; /* fill | contain | cover | none scale-down */
+        flex: 1;
+        overflow: hidden;
+        height: 100px;
+    }
     .main {
         order: 2;
         margin: auto;
@@ -83,16 +89,22 @@
     }
     .photo {
         order: 1;
-        width: 50px;
+        width: 100px; /* making this 50px instead of 100px fixes wide images and breaks narrow ones? */
+        height: 50px;
         margin: auto;
-        height: auto;
-        padding-right: 10px;
+        display: flex;
+        justify-content: center;
     }
-
+    .img {
+        object-fit: contain; /* fill | contain | cover | none scale-down */
+        flex: 1;
+        overflow: hidden;
+    }
     .main {
         order: 2;
         width: 200px;
         padding-top: 5px;
+        padding-left: 10px;
         padding-right: 10px;
         color: gray;
         align-self: flex-start; /*auto | flex-start | flex-end | center | baseline | stretch;*/

@@ -10,8 +10,10 @@
 learn more and listen more
 
 ## TODO (MVP)
-* photo aspect ratios cause some problems sometimes
+* photo aspect ratios cause problems sometimes (mobile only ...)
     * August 11 Alexander Mosolov (very tall image)
+    * October 1 Paul Dukas (very wide image)
+    * [object-fit](https://css-tricks.com/almanac/properties/o/object-fit/) and [stackoverflow](https://stackoverflow.com/q/37127384) helped.
 * get spotify links to open in app?
     * replacing "https" with "spotify" prompts to open the app immediately instead of loading the website (which then prompts for app)
 * move list to table, for sorting
@@ -33,6 +35,7 @@ learn more and listen more
 * ~~fix playlist link color~~ 
 * ~~change cryptic playlist abbreviations to "in progress"~~
 * ~~remove spotify / wikidata buttons if no links are present~~
+* ~~photo aspect ratios cause some problems sometimes~~
 
 
 ## TODO (feature wishes)

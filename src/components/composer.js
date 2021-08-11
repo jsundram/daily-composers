@@ -4,6 +4,7 @@ import {format} from 'd3-format'
 import {
     container,
     photo,
+    img,
     main,
     linkSpotify,
     iconSpotify,
@@ -44,7 +45,9 @@ const Composer = ({node}) => {
 
     return (
           <li key={node.name} className={container}>
-            <img className={photo} src={node.sp_img_url || no_artist_photo } height="100px" alt="spotify" type="image/jpg"/>
+            <div className={photo}>
+                <img className={img} src={node.sp_img_url || no_artist_photo } alt="spotify" type="image/jpg"/>
+            </div>
 
             <div className={main}>
                 <p className={name}><a className={linkWp} href={node.wp_url}>{node.name}</a></p>
