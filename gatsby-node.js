@@ -71,6 +71,7 @@ exports.createPages = async ({ graphql, actions }) => {
     cresult.data.allComposersCsv.group.forEach(  group  => {
         // "April 02" -> 04/11
         let d = new Date(Date.parse(group.fieldValue));
+        // TODO: one day pull this from src/lib/utils.js
         let slug = "/" + (d.getMonth() + 1) + "-" +  d.getDate();
         let ds = (d.getMonth() + 1) + "/" +  d.getDate();
         console.log("path: ", slug, "Count: ", group.totalCount);

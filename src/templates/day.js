@@ -1,7 +1,7 @@
 import * as React from "react"
 import {Link} from "gatsby"
 import { StaticImage } from 'gatsby-plugin-image'
-
+import {date_to_slug, ONE_DAY_MS} from '../lib/utils'
 
 import Layout from '../components/layout'
 import Composer from '../components/composer'
@@ -16,20 +16,15 @@ import {
 
 const button_height = 30;
 
-// TODO: this should probably go someplace more central and get used by
-// gatsby-node.js
-let dateslug = ( d ) => ("/" + (d.getMonth() + 1) + "-" +  d.getDate());
-
 export default function Day({ pageContext }) {
   console.log(pageContext);
   const {date_str, playlist, group} = pageContext;
   const playlist_types = ["sampler", "long", "draft", "other"];
   const playlist_count = playlist_types.map(type => (playlist[type] ? 1 : 0)).reduce((a, b) => (a + b), 0);
 
-  const one_day_ms = 24 * 60 * 60 * 1000;
   let date = Date.parse(date_str);
-  let yesterday = new Date(date - one_day_ms);
-  let tomorrow = new Date(date + one_day_ms);
+  let yesterday = new Date(date - ONE_DAY_MS);
+  let tomorrow = new Date(date + ONE_DAY_MS);
 
 
   // let has_playlist = playlist_types.every(t => (playlist[t] === ""));
@@ -38,7 +33,7 @@ export default function Day({ pageContext }) {
         <Layout pageTitle={date_str}>
 
             <div className={container}>
-            <Link className={button} to={dateslug(yesterday)} title="yesterday">
+            <Link className={button} to={date_to_slug(yesterday)} title="yesterday">
                 <StaticImage
                     alt="yesterday"
                     src="../images/previous-button.svg"
@@ -49,7 +44,7 @@ export default function Day({ pageContext }) {
 
             <h1 className={heading}>{date_str}</h1>
 
-            <Link className={button} to={dateslug(tomorrow)} title="tomorrow">
+            <Link className={button} to={date_to_slug(tomorrow)} title="tomorrow">
                 <StaticImage
                     alt="tomorrow"
                     src="../images/next-button.svg"
