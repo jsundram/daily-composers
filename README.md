@@ -10,6 +10,16 @@
 learn more and listen more
 
 ## TODO (MVP)
+* SEO fixes 
+    * https://build-6291b002-cf51-4dac-aa76-ac456102a9cd.gtsb.io/reports/lighthouse/index.html#seo
+    * https://www.gatsbyjs.com/docs/add-seo-component/
+    * https://www.gatsbyjs.com/docs/add-page-metadata/
+    * https://www.gatsbyjs.com/docs/add-seo-component/
+* get a favicon
+    * https://flaviocopes.com/gatsby-change-favicon/
+    * https://favicon.io/emoji-favicons/musical-note
+    * https://favicon.io/favicon-generator/
+* get a url (dailycomposers.com is available)
 * photo aspect ratios cause problems sometimes (mobile only ...)
     * August 11 Alexander Mosolov (very tall image)
     * October 1 Paul Dukas (very wide image)
