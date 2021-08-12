@@ -36,6 +36,7 @@ learn more and listen more
 * ~~change cryptic playlist abbreviations to "in progress"~~
 * ~~remove spotify / wikidata buttons if no links are present~~
 * ~~photo aspect ratios cause some problems sometimes~~
+* ~~/todoy link~~~
 
 
 ## TODO (feature wishes)
@@ -50,7 +51,8 @@ learn more and listen more
     * [Amalia Catharina](https://en.wikipedia.org/wiki/Countess_Amalia_Katharina_of_Waldeck) doesn't have wikidata linked
         Amalia Catharina,August 09,,7885,0,0,,http://en.wikipedia.org/wiki/Amalia_Catharina,,,,,1640,,,¬
         * fixing manually in data in this repository, need to figure out why https://www.wikidata.org/wiki/Q4739394 wasn't linked originally.
-        Amalia Catharina,August 09,January 4,7885,0,0,,http://en.wikipedia.org/wiki/Amalia_Catharina,https://www.wikidata.org/wiki/Q4739394,,"Aug 09, 1640","Jan 04 1697",1640,1697,,
+        `Amalia Catharina,August 09,January 4,7885,0,0,,http://en.wikipedia.org/wiki/Amalia_Catharina,https://www.wikidata.org/wiki/Q4739394,,"Aug 09, 1640","Jan 04 1697",1640,1697,,`
+    * Biber (August 12) also missing death day. not fixing, waiting for data repo to clean this up, will use as a test case.
         * can find a list of ~178 such problems via:
             ```python
             import csv

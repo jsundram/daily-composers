@@ -7,21 +7,23 @@ import {
   heading,
 } from '../components/layout.module.css'
 
+import {link} from './index.module.css'
+
 // Step 2: Define your component
 const AboutPage = () => {
   return (
       <Layout pageTitle="About">
         <h1 className={heading}>About</h1>
-        <p>Daily Composers was inspired by <a href="http://composerbirthdays.com/">composerbirthdays.com</a>, and was built to help celebrate great music</p>
-        <p>Daily Composers was built with <a href="https://www.gatsbyjs.com/">Gatsby</a>.</p>
+        <p>Daily Composers was inspired by <a className={link} href="http://composerbirthdays.com/">composerbirthdays.com</a>, and was built to help celebrate great music</p>
+        <p>Daily Composers was built with <a className={link} href="https://www.gatsbyjs.com/">Gatsby</a>.</p>
 
-        <p>Icons made by the following creators on <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>: </p>
+        <p>Icons made by the following creators on <a className={link} href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>: </p>
         <ul>
-            <li> <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a></li>
-            <li> <a href="https://www.freepik.com" title="Freepik">Freepik</a></li>
+            <li> <a className={link} href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a></li>
+            <li> <a className={link} href="https://www.freepik.com" title="Freepik">Freepik</a></li>
         </ul>
 
-        <p>Check out Today's composers of the day, browse the <Link to="/calendar" className={heading}>Calendar</Link> or click Random to explore!</p>
+        <p>Check out <Link to="/today" className={link}>Today</Link>'s composers of the day, browse the <Link to="/calendar" className={link}>Calendar</Link> or click <Link to="/random" className={link}>Random</Link> to explore!</p>
       </Layout>
   )
 }
