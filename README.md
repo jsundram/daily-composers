@@ -56,6 +56,7 @@ learn more and listen more
 * search for a particular composer
 * make a separate repo for all the data processing and make that easy to read / update
     * can pull tags / genres from wikidata in future.
+    * problems listed here: https://docs.google.com/spreadsheets/d/1UGAPnz3YfGuYyzuCvq5Hci5NDWQrU29hOAofLFwxmhk/edit#gid=614964885
     * [chevalier de st georges](https://en.wikipedia.org/wiki/Chevalier_de_Saint-Georges) doesn't have wikidata linked so death date is missing.
         * fixing manually in data in this repository, need to figure out why https://www.wikidata.org/wiki/Q726953 wasn't linked originally.
     * [Amalia Catharina](https://en.wikipedia.org/wiki/Countess_Amalia_Katharina_of_Waldeck) doesn't have wikidata linked
@@ -71,6 +72,7 @@ learn more and listen more
             missing_wd = [r for r in rows if 2021 - int(r['birthyear']) > 100 and r['deathdate'] == '']
             ```
     * "other" playlist pulls name from column T but not link from column U!
+    * could take all spotify tags and figure out which ones are worth showing? some composers have too many?
 * get data from google sheets instead of cooked csv/json
     * service account set up
     * need to understand how [this example](https://github.com/gatsbyjs/gatsby/tree/master/examples/functions-google-sheets) works better.
